@@ -1,6 +1,6 @@
 # DataScience
 
-## Huge Ethereum Mixer
+## Huge Ethereum Mixer- An amazing project
 
 Paper here:https://blog.cyber.fund/huge-ethereum-mixer-6cf98680ee6c
 
